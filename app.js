@@ -15,7 +15,7 @@
   const announcement = document.getElementById('announcement');
   const media = window.matchMedia('(max-width: 760px)');
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
-  const contact = 'winston@aimeet-ai.com';
+  const contact = 'mumu@aimeet-ai.com';
   const languageKey = 'aimeet-language';
   let language = 'zh';
   let selectedScenario = 0;
